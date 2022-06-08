@@ -1,2 +1,2 @@
-# django_group_discussion_site
+# Django Study Buddy
 Basic Django project for beginner.
